@@ -7,3 +7,7 @@ GitHub Project Health Dashboard
 ```bash
 npm install && npm start
 ```
+
+## License
+
+MIT, see [LICENSE](LICENSE).
